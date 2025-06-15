@@ -1,4 +1,5 @@
 📸 Face Recognition Attendance System
+
 This project is a real-time Face Recognition-based Attendance System implemented using Python and OpenCV. It utilizes the face_recognition library to detect and recognize faces from a webcam feed and logs attendance data in a CSV file.
 
 🔧 Features
