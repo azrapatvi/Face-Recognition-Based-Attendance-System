@@ -26,7 +26,7 @@ This is a real-time **Face Recognition-based Attendance System** built using **P
 ---
 
 📁 Folder Structure
-
+```
 project_directory/
 │
 ├── photos/ # Folder containing known faces
@@ -35,6 +35,7 @@ project_directory/
 │
 ├── face_recognition_project.py # Main script
 ├── CNCC-2025-06-15.csv # Auto-generated attendance file (example)
+```
 
 
 ---
